@@ -10,7 +10,7 @@ sites:
   - name: Blockly
     url: https://blockly.sensebox.de/ardublockly/?board=sensebox-mcu
   - name: openSenseMap
-    url: https://opsensemap.org
+    url: https://opensensemap.org
   - name: openSenseMap Archive
     url: https://archive.opensensemap.org/
 
