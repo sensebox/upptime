@@ -5,8 +5,14 @@ repo: upptime # The name of this repository
 sites:
   - name: senseBox
     url: https://sensebox.de
+  - name: senseBox Docs
+    url: https://docs.sensebox.de
   - name: Blockly
     url: https://blockly.sensebox.de/ardublockly/?board=sensebox-mcu
+  - name: openSenseMap
+    url: https://opsensemap.org
+  - name: openSenseMap Archive
+    url: https://archive.opensensemap.org/
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
@@ -22,6 +28,5 @@ status-website:
       href: /
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
-
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
