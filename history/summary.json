@@ -55,22 +55,22 @@
   },
   {
     "name": "openSenseMap",
-    "url": "https://opsensemap.org",
-    "icon": "https://favicons.githubusercontent.com/opsensemap.org",
+    "url": "https://opensensemap.org",
+    "icon": "https://favicons.githubusercontent.com/opensensemap.org",
     "slug": "open-sense-map",
     "status": "up",
-    "uptime": "6.70%",
-    "uptimeDay": "6.70%",
-    "uptimeWeek": "6.70%",
-    "uptimeMonth": "6.70%",
-    "uptimeYear": "6.70%",
+    "uptime": "3.72%",
+    "uptimeDay": "3.72%",
+    "uptimeWeek": "3.72%",
+    "uptimeMonth": "3.72%",
+    "uptimeYear": "3.72%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2021-07-20": 0
+      "2021-07-20": 2
     }
   },
   {
