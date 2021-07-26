@@ -90,5 +90,25 @@
     "timeMonth": 1064,
     "timeYear": 1064,
     "dailyMinutesDown": {}
+  },
+  {
+    "name": "Compiler",
+    "url": "https://compiler.sensebox.de/compile",
+    "icon": "https://favicons.githubusercontent.com/compiler.sensebox.de",
+    "slug": "compiler",
+    "status": "up",
+    "uptime": "5.53%",
+    "uptimeDay": "5.53%",
+    "uptimeWeek": "5.53%",
+    "uptimeMonth": "5.53%",
+    "uptimeYear": "5.53%",
+    "time": 0,
+    "timeDay": 0,
+    "timeWeek": 0,
+    "timeMonth": 0,
+    "timeYear": 0,
+    "dailyMinutesDown": {
+      "2021-07-26": 0
+    }
   }
 ]
