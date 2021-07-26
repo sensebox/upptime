@@ -18,7 +18,7 @@ sites:
     url: https://compiler.sensebox.de/compile
     headers:
       - "Content-type: application/json"
-    data: '{"board":"sensebox-mcu", "sketch":"void setup() {\nSerial.begin(9600);\nSerial.println(\"Hello World\");\n}\nvoid loop() {}"}'
+    body: '{"board":"sensebox-mcu", "sketch":"void setup() {\nSerial.begin(9600);\nSerial.println(\"Hello World\");\n}\nvoid loop() {}"}'
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
