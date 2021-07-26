@@ -9,6 +9,8 @@ sites:
     url: https://docs.sensebox.de
   - name: Blockly
     url: https://blockly.sensebox.de/ardublockly/?board=sensebox-mcu
+  - name: snsbx URL Shortener
+    url: https://snsbx.de/
   - name: openSenseMap
     url: https://opensensemap.org
   - name: openSenseMap Archive
