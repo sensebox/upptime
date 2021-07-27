@@ -94,6 +94,24 @@
     }
   },
   {
+    "name": "openSenseMap API",
+    "url": "https://api.opensensemap.org",
+    "icon": "https://favicons.githubusercontent.com/api.opensensemap.org",
+    "slug": "open-sense-map-api",
+    "status": "up",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 0,
+    "timeDay": 0,
+    "timeWeek": 0,
+    "timeMonth": 0,
+    "timeYear": 0,
+    "dailyMinutesDown": {}
+  },
+  {
     "name": "openSenseMap Archive",
     "url": "https://archive.opensensemap.org/",
     "icon": "https://favicons.githubusercontent.com/archive.opensensemap.org",
