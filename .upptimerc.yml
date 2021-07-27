@@ -13,6 +13,8 @@ sites:
     url: https://api.blockly.sensebox.de/tutorial/
   - name: openSenseMap
     url: https://opensensemap.org
+  - name: openSenseMap API
+    url: https://api.opensensemap.org
   - name: openSenseMap Archive
     url: https://archive.opensensemap.org/
   - name: Compiler
