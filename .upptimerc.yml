@@ -9,6 +9,8 @@ sites:
     url: https://docs.sensebox.de
   - name: Blockly
     url: https://blockly.sensebox.de/ardublockly/?board=sensebox-mcu
+  - name: Blockly API
+    url: https://api.blockly.sensebox.de/tutorial/
   - name: openSenseMap
     url: https://opensensemap.org
   - name: openSenseMap Archive
