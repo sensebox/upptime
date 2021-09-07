@@ -63,9 +63,9 @@
     "url": "https://api.blockly.sensebox.de/tutorial/",
     "icon": "https://favicons.githubusercontent.com/api.blockly.sensebox.de",
     "slug": "blockly-api",
-    "status": "up",
+    "status": "down",
     "uptime": "99.77%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.76%",
     "uptimeYear": "99.77%",
@@ -75,6 +75,7 @@
     "timeMonth": 660,
     "timeYear": 686,
     "dailyMinutesDown": {
+      "2021-09-07": 0,
       "2021-08-17": 105,
       "2021-07-31": 15,
       "2021-07-29": 18
