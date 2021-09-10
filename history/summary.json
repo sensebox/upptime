@@ -86,18 +86,19 @@
     "url": "https://opensensemap.org",
     "icon": "https://favicons.githubusercontent.com/opensensemap.org",
     "slug": "open-sense-map",
-    "status": "up",
-    "uptime": "99.98%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.95%",
-    "uptimeMonth": "99.97%",
-    "uptimeYear": "99.98%",
+    "status": "down",
+    "uptime": "99.97%",
+    "uptimeDay": "99.92%",
+    "uptimeWeek": "99.94%",
+    "uptimeMonth": "99.96%",
+    "uptimeYear": "99.97%",
     "time": 642,
     "timeDay": 845,
     "timeWeek": 655,
     "timeMonth": 621,
     "timeYear": 642,
     "dailyMinutesDown": {
+      "2021-09-10": 1,
       "2021-09-07": 5,
       "2021-09-02": 10,
       "2021-07-20": 2
@@ -108,10 +109,10 @@
     "url": "https://api.opensensemap.org",
     "icon": "https://favicons.githubusercontent.com/api.opensensemap.org",
     "slug": "open-sense-map-api",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.96%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.95%",
     "uptimeMonth": "99.97%",
     "uptimeYear": "99.98%",
     "time": 573,
@@ -120,6 +121,7 @@
     "timeMonth": 603,
     "timeYear": 573,
     "dailyMinutesDown": {
+      "2021-09-10": 1,
       "2021-09-07": 5,
       "2021-09-02": 10
     }
@@ -129,9 +131,9 @@
     "url": "https://archive.opensensemap.org/",
     "icon": "https://favicons.githubusercontent.com/archive.opensensemap.org",
     "slug": "open-sense-map-archive",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "99.96%",
     "uptimeMonth": "99.98%",
     "uptimeYear": "99.99%",
@@ -141,6 +143,7 @@
     "timeMonth": 993,
     "timeYear": 1020,
     "dailyMinutesDown": {
+      "2021-09-10": 0,
       "2021-09-07": 4,
       "2021-09-02": 4
     }
