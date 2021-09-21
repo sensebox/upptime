@@ -153,9 +153,9 @@
     "url": "https://compiler.sensebox.de/compile",
     "icon": "https://favicons.githubusercontent.com/compiler.sensebox.de",
     "slug": "compiler",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
@@ -165,6 +165,7 @@
     "timeMonth": 927,
     "timeYear": 928,
     "dailyMinutesDown": {
+      "2021-09-21": 0,
       "2021-07-26": 8
     }
   }
