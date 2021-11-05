@@ -5,19 +5,18 @@
     "icon": "https://favicons.githubusercontent.com/sensebox.de",
     "slug": "sense-box",
     "status": "up",
-    "uptime": "99.98%",
+    "uptime": "99.99%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.98%",
+    "uptimeYear": "99.99%",
     "time": 548,
     "timeDay": 436,
     "timeWeek": 495,
     "timeMonth": 520,
     "timeYear": 548,
     "dailyMinutesDown": {
-      "2021-07-29": 25,
-      "2021-07-26": 9
+      "2021-07-29": 19
     }
   },
   {
@@ -54,28 +53,26 @@
     "timeWeek": 285,
     "timeMonth": 277,
     "timeYear": 275,
-    "dailyMinutesDown": {
-      "2021-08-22": 7
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Blockly API",
     "url": "https://api.blockly.sensebox.de/tutorial/",
     "icon": "https://favicons.githubusercontent.com/api.blockly.sensebox.de",
     "slug": "blockly-api",
-    "status": "down",
+    "status": "up",
     "uptime": "99.89%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.60%",
+    "uptimeWeek": "99.94%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "99.89%",
-    "time": 671,
-    "timeDay": 676,
-    "timeWeek": 733,
-    "timeMonth": 696,
-    "timeYear": 671,
+    "time": 672,
+    "timeDay": 729,
+    "timeWeek": 739,
+    "timeMonth": 699,
+    "timeYear": 672,
     "dailyMinutesDown": {
-      "2021-11-05": 0,
+      "2021-11-05": 6,
       "2021-09-07": 19,
       "2021-08-17": 105,
       "2021-07-31": 15,
