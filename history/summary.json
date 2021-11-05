@@ -63,9 +63,9 @@
     "url": "https://api.blockly.sensebox.de/tutorial/",
     "icon": "https://favicons.githubusercontent.com/api.blockly.sensebox.de",
     "slug": "blockly-api",
-    "status": "up",
+    "status": "down",
     "uptime": "99.89%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.89%",
@@ -75,7 +75,8 @@
     "timeMonth": 696,
     "timeYear": 671,
     "dailyMinutesDown": {
-      "2021-09-07": 26,
+      "2021-11-05": 0,
+      "2021-09-07": 19,
       "2021-08-17": 105,
       "2021-07-31": 15,
       "2021-07-29": 18
@@ -87,19 +88,17 @@
     "icon": "https://favicons.githubusercontent.com/opensensemap.org",
     "slug": "open-sense-map",
     "status": "up",
-    "uptime": "99.99%",
+    "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.99%",
+    "uptimeYear": "100.00%",
     "time": 649,
     "timeDay": 711,
-    "timeWeek": 712,
+    "timeWeek": 741,
     "timeMonth": 661,
     "timeYear": 649,
     "dailyMinutesDown": {
-      "2021-09-07": 5,
-      "2021-09-02": 10,
       "2021-07-20": 2
     }
   },
@@ -109,20 +108,17 @@
     "icon": "https://favicons.githubusercontent.com/api.opensensemap.org",
     "slug": "open-sense-map-api",
     "status": "up",
-    "uptime": "99.99%",
+    "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.99%",
+    "uptimeYear": "100.00%",
     "time": 609,
     "timeDay": 553,
-    "timeWeek": 690,
+    "timeWeek": 712,
     "timeMonth": 695,
     "timeYear": 609,
-    "dailyMinutesDown": {
-      "2021-09-07": 5,
-      "2021-09-02": 10
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "openSenseMap Archive",
@@ -140,9 +136,7 @@
     "timeWeek": 1106,
     "timeMonth": 1081,
     "timeYear": 1036,
-    "dailyMinutesDown": {
-      "2021-09-02": 4
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Compiler",
