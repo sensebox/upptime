@@ -24,9 +24,9 @@
     "url": "https://docs.sensebox.de",
     "icon": "https://favicons.githubusercontent.com/docs.sensebox.de",
     "slug": "sense-box-docs",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -35,16 +35,18 @@
     "timeWeek": 223,
     "timeMonth": 239,
     "timeYear": 291,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-11-16": 0
+    }
   },
   {
     "name": "Blockly",
     "url": "https://blockly.sensebox.de/ardublockly/?board=sensebox-mcu",
     "icon": "https://favicons.githubusercontent.com/blockly.sensebox.de",
     "slug": "blockly",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -53,7 +55,9 @@
     "timeWeek": 190,
     "timeMonth": 224,
     "timeYear": 270,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-11-16": 0
+    }
   },
   {
     "name": "Blockly API",
@@ -110,7 +114,7 @@
     "time": 604,
     "timeDay": 561,
     "timeWeek": 556,
-    "timeMonth": 668,
+    "timeMonth": 671,
     "timeYear": 604,
     "dailyMinutesDown": {}
   },
@@ -128,7 +132,7 @@
     "time": 1035,
     "timeDay": 897,
     "timeWeek": 1002,
-    "timeMonth": 1058,
+    "timeMonth": 1050,
     "timeYear": 1035,
     "dailyMinutesDown": {}
   },
