@@ -24,19 +24,19 @@
     "url": "https://docs.sensebox.de",
     "icon": "https://favicons.githubusercontent.com/docs.sensebox.de",
     "slug": "sense-box-docs",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.60%",
+    "uptimeWeek": "99.94%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
-    "time": 291,
-    "timeDay": 200,
-    "timeWeek": 223,
-    "timeMonth": 239,
-    "timeYear": 291,
+    "time": 293,
+    "timeDay": 328,
+    "timeWeek": 252,
+    "timeMonth": 245,
+    "timeYear": 293,
     "dailyMinutesDown": {
-      "2021-11-16": 0
+      "2021-11-16": 6
     }
   },
   {
@@ -46,9 +46,9 @@
     "slug": "blockly",
     "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.60%",
+    "uptimeWeek": "99.94%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
     "time": 270,
     "timeDay": 221,
@@ -56,7 +56,7 @@
     "timeMonth": 224,
     "timeYear": 270,
     "dailyMinutesDown": {
-      "2021-11-16": 0
+      "2021-11-16": 6
     }
   },
   {
