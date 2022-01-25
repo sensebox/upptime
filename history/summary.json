@@ -103,10 +103,10 @@
     "url": "https://api.opensensemap.org",
     "icon": "https://favicons.githubusercontent.com/api.opensensemap.org",
     "slug": "open-sense-map-api",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 593,
@@ -114,7 +114,9 @@
     "timeWeek": 523,
     "timeMonth": 576,
     "timeYear": 593,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-01-25": 1
+    }
   },
   {
     "name": "openSenseMap Archive",
