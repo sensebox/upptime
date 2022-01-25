@@ -105,9 +105,9 @@
     "slug": "open-sense-map-api",
     "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "99.95%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.53%",
+    "uptimeWeek": "99.93%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
     "time": 593,
     "timeDay": 482,
@@ -115,7 +115,7 @@
     "timeMonth": 576,
     "timeYear": 593,
     "dailyMinutesDown": {
-      "2022-01-25": 1
+      "2022-01-25": 7
     }
   },
   {
@@ -123,9 +123,9 @@
     "url": "https://archive.opensensemap.org/",
     "icon": "https://favicons.githubusercontent.com/archive.opensensemap.org",
     "slug": "open-sense-map-archive",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -134,7 +134,9 @@
     "timeWeek": 1056,
     "timeMonth": 1014,
     "timeYear": 1033,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-01-25": 0
+    }
   },
   {
     "name": "Compiler",
