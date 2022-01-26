@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 541,
-    "timeDay": 640,
-    "timeWeek": 533,
-    "timeMonth": 538,
+    "timeDay": 499,
+    "timeWeek": 524,
+    "timeMonth": 534,
     "timeYear": 541,
     "dailyMinutesDown": {
       "2021-07-29": 19
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 288,
-    "timeDay": 313,
-    "timeWeek": 297,
-    "timeMonth": 243,
-    "timeYear": 288,
+    "time": 287,
+    "timeDay": 222,
+    "timeWeek": 314,
+    "timeMonth": 241,
+    "timeYear": 287,
     "dailyMinutesDown": {}
   },
   {
@@ -49,9 +49,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 254,
-    "timeDay": 246,
-    "timeWeek": 224,
-    "timeMonth": 212,
+    "timeDay": 218,
+    "timeWeek": 241,
+    "timeMonth": 215,
     "timeYear": 254,
     "dailyMinutesDown": {
       "2021-11-16": 19
@@ -69,9 +69,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.94%",
     "time": 678,
-    "timeDay": 549,
-    "timeWeek": 644,
-    "timeMonth": 667,
+    "timeDay": 633,
+    "timeWeek": 647,
+    "timeMonth": 666,
     "timeYear": 678,
     "dailyMinutesDown": {
       "2021-09-07": 19,
@@ -91,11 +91,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 650,
-    "timeDay": 720,
-    "timeWeek": 633,
-    "timeMonth": 637,
-    "timeYear": 650,
+    "time": 649,
+    "timeDay": 540,
+    "timeWeek": 620,
+    "timeMonth": 631,
+    "timeYear": 649,
     "dailyMinutesDown": {}
   },
   {
@@ -105,18 +105,16 @@
     "slug": "open-sense-map-api",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.24%",
-    "uptimeWeek": "99.89%",
-    "uptimeMonth": "99.97%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 594,
-    "timeDay": 646,
-    "timeWeek": 558,
-    "timeMonth": 583,
+    "timeDay": 645,
+    "timeWeek": 551,
+    "timeMonth": 581,
     "timeYear": 594,
-    "dailyMinutesDown": {
-      "2022-01-25": 11
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "openSenseMap Archive",
@@ -125,18 +123,16 @@
     "slug": "open-sense-map-archive",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.67%",
-    "uptimeWeek": "99.95%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1035,
-    "timeDay": 1229,
-    "timeWeek": 1106,
-    "timeMonth": 1028,
-    "timeYear": 1035,
-    "dailyMinutesDown": {
-      "2022-01-25": 5
-    }
+    "time": 1034,
+    "timeDay": 1199,
+    "timeWeek": 1111,
+    "timeMonth": 1029,
+    "timeYear": 1034,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Compiler",
@@ -150,9 +146,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.89%",
     "time": 925,
-    "timeDay": 940,
-    "timeWeek": 901,
-    "timeMonth": 904,
+    "timeDay": 857,
+    "timeWeek": 899,
+    "timeMonth": 903,
     "timeYear": 925,
     "dailyMinutesDown": {
       "2021-10-23": 280,
