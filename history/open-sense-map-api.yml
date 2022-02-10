@@ -1,7 +1,7 @@
 url: https://api.opensensemap.org
-status: down
-code: 502
-responseTime: 537
-lastUpdated: 2022-02-10T16:42:37.366Z
+status: up
+code: 200
+responseTime: 437
+lastUpdated: 2022-02-10T17:17:47.958Z
 startTime: Tue Jul 27 2021 13:34:27 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
