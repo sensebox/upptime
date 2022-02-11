@@ -85,19 +85,19 @@
     "url": "https://opensensemap.org",
     "icon": "https://favicons.githubusercontent.com/opensensemap.org",
     "slug": "open-sense-map",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.47%",
+    "uptimeWeek": "99.92%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
-    "time": 647,
-    "timeDay": 582,
-    "timeWeek": 616,
-    "timeMonth": 617,
-    "timeYear": 647,
+    "time": 646,
+    "timeDay": 548,
+    "timeWeek": 601,
+    "timeMonth": 613,
+    "timeYear": 646,
     "dailyMinutesDown": {
-      "2022-02-11": 0
+      "2022-02-11": 8
     }
   },
   {
@@ -105,19 +105,19 @@
     "url": "https://api.opensensemap.org",
     "icon": "https://favicons.githubusercontent.com/api.opensensemap.org",
     "slug": "open-sense-map-api",
-    "status": "down",
+    "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "97.55%",
-    "uptimeWeek": "99.65%",
-    "uptimeMonth": "99.92%",
+    "uptimeDay": "97.03%",
+    "uptimeWeek": "99.58%",
+    "uptimeMonth": "99.90%",
     "uptimeYear": "99.99%",
     "time": 584,
-    "timeDay": 462,
-    "timeWeek": 481,
-    "timeMonth": 527,
+    "timeDay": 458,
+    "timeWeek": 478,
+    "timeMonth": 524,
     "timeYear": 584,
     "dailyMinutesDown": {
-      "2022-02-11": 0,
+      "2022-02-11": 8,
       "2022-02-10": 35
     }
   },
@@ -127,18 +127,18 @@
     "icon": "https://favicons.githubusercontent.com/archive.opensensemap.org",
     "slug": "open-sense-map-archive",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.18%",
-    "uptimeWeek": "99.88%",
-    "uptimeMonth": "99.97%",
-    "uptimeYear": "100.00%",
+    "uptime": "99.99%",
+    "uptimeDay": "98.66%",
+    "uptimeWeek": "99.81%",
+    "uptimeMonth": "99.96%",
+    "uptimeYear": "99.99%",
     "time": 1032,
     "timeDay": 841,
     "timeWeek": 954,
     "timeMonth": 1011,
     "timeYear": 1032,
     "dailyMinutesDown": {
-      "2022-02-11": 12
+      "2022-02-11": 19
     }
   },
   {
