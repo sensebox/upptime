@@ -24,19 +24,19 @@
     "url": "https://docs.sensebox.de",
     "icon": "https://favicons.githubusercontent.com/docs.sensebox.de",
     "slug": "sense-box-docs",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.58%",
+    "uptimeWeek": "99.94%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
     "time": 280,
-    "timeDay": 304,
-    "timeWeek": 197,
-    "timeMonth": 223,
+    "timeDay": 310,
+    "timeWeek": 212,
+    "timeMonth": 227,
     "timeYear": 280,
     "dailyMinutesDown": {
-      "2022-03-02": 0
+      "2022-03-02": 6
     }
   },
   {
