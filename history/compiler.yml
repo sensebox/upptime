@@ -1,7 +1,7 @@
 url: https://compiler.sensebox.de/compile
-status: down
-code: 404
-responseTime: 545
-lastUpdated: 2022-03-04T15:22:23.027Z
+status: up
+code: 200
+responseTime: 1336
+lastUpdated: 2022-03-04T15:51:50.191Z
 startTime: Mon Jul 26 2021 07:19:02 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
