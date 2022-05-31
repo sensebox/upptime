@@ -13,7 +13,7 @@
     "time": 516,
     "timeDay": 406,
     "timeWeek": 395,
-    "timeMonth": 412,
+    "timeMonth": 422,
     "timeYear": 516,
     "dailyMinutesDown": {
       "2021-07-29": 19
@@ -33,7 +33,7 @@
     "time": 329,
     "timeDay": 189,
     "timeWeek": 260,
-    "timeMonth": 565,
+    "timeMonth": 553,
     "timeYear": 329,
     "dailyMinutesDown": {
       "2022-05-02": 18,
@@ -47,17 +47,16 @@
     "slug": "blockly",
     "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.38%",
-    "uptimeWeek": "99.91%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 273,
     "timeDay": 265,
     "timeWeek": 280,
-    "timeMonth": 365,
+    "timeMonth": 358,
     "timeYear": 273,
     "dailyMinutesDown": {
-      "2022-05-30": 9,
       "2022-04-14": 30,
       "2021-11-16": 19
     }
@@ -76,7 +75,7 @@
     "time": 702,
     "timeDay": 728,
     "timeWeek": 858,
-    "timeMonth": 847,
+    "timeMonth": 843,
     "timeYear": 702,
     "dailyMinutesDown": {
       "2022-02-24": 59,
@@ -101,7 +100,7 @@
     "time": 657,
     "timeDay": 699,
     "timeWeek": 745,
-    "timeMonth": 728,
+    "timeMonth": 726,
     "timeYear": 657,
     "dailyMinutesDown": {
       "2022-05-01": 36,
@@ -122,7 +121,7 @@
     "time": 595,
     "timeDay": 641,
     "timeWeek": 553,
-    "timeMonth": 614,
+    "timeMonth": 615,
     "timeYear": 595,
     "dailyMinutesDown": {
       "2022-05-01": 36,
@@ -144,7 +143,7 @@
     "time": 1058,
     "timeDay": 884,
     "timeWeek": 1151,
-    "timeMonth": 1188,
+    "timeMonth": 1179,
     "timeYear": 1058,
     "dailyMinutesDown": {
       "2022-05-01": 37,
@@ -165,7 +164,7 @@
     "time": 1054,
     "timeDay": 1444,
     "timeWeek": 1485,
-    "timeMonth": 1476,
+    "timeMonth": 1473,
     "timeYear": 1054,
     "dailyMinutesDown": {
       "2022-03-04": 29,
