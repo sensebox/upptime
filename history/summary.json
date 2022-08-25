@@ -22,9 +22,9 @@
     "url": "https://docs.sensebox.de",
     "icon": "https://favicons.githubusercontent.com/docs.sensebox.de",
     "slug": "sense-box-docs",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
@@ -34,6 +34,7 @@
     "timeMonth": 528,
     "timeYear": 350,
     "dailyMinutesDown": {
+      "2022-08-25": 0,
       "2022-05-02": 18,
       "2022-04-14": 30
     }
