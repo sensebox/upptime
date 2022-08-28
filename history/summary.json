@@ -22,9 +22,9 @@
     "url": "https://docs.sensebox.de",
     "icon": "https://favicons.githubusercontent.com/docs.sensebox.de",
     "slug": "sense-box-docs",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
@@ -34,6 +34,7 @@
     "timeMonth": 513,
     "timeYear": 350,
     "dailyMinutesDown": {
+      "2022-08-28": 0,
       "2022-05-02": 18,
       "2022-04-14": 30
     }
@@ -43,9 +44,9 @@
     "url": "https://blockly.sensebox.de/ardublockly/?board=sensebox-mcu",
     "icon": "https://favicons.githubusercontent.com/blockly.sensebox.de",
     "slug": "blockly",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
@@ -55,6 +56,7 @@
     "timeMonth": 399,
     "timeYear": 293,
     "dailyMinutesDown": {
+      "2022-08-28": 0,
       "2022-04-14": 30,
       "2021-11-16": 19
     }
@@ -68,7 +70,7 @@
     "uptime": "99.69%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "98.11%",
+    "uptimeMonth": "98.29%",
     "uptimeYear": "99.69%",
     "time": 724,
     "timeDay": 620,
@@ -157,7 +159,7 @@
     "uptime": "99.68%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "98.28%",
+    "uptimeMonth": "98.46%",
     "uptimeYear": "99.65%",
     "time": 1155,
     "timeDay": 1398,
