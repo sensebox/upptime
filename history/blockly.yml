@@ -1,7 +1,7 @@
 url: https://blockly.sensebox.de/ardublockly/?board=sensebox-mcu
-status: up
-code: 200
-responseTime: 278
-lastUpdated: 2022-12-06T18:36:07.024Z
+status: down
+code: 500
+responseTime: 3172
+lastUpdated: 2022-12-06T19:20:59.412Z
 startTime: Mon Jul 19 2021 11:28:18 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
