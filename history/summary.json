@@ -91,9 +91,9 @@
     "url": "https://opensensemap.org",
     "icon": "https://icons.duckduckgo.com/ip3/opensensemap.org.ico",
     "slug": "open-sense-map",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
@@ -103,6 +103,7 @@
     "timeMonth": 743,
     "timeYear": 703,
     "dailyMinutesDown": {
+      "2022-12-28": 0,
       "2022-05-01": 36,
       "2022-02-11": 16
     }
@@ -112,9 +113,9 @@
     "url": "https://api.opensensemap.org",
     "icon": "https://icons.duckduckgo.com/ip3/api.opensensemap.org.ico",
     "slug": "open-sense-map-api",
-    "status": "up",
+    "status": "down",
     "uptime": "99.96%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.95%",
@@ -124,6 +125,7 @@
     "timeMonth": 798,
     "timeYear": 696,
     "dailyMinutesDown": {
+      "2022-12-28": 0,
       "2022-11-22": 32,
       "2022-11-03": 19,
       "2022-10-27": 21,
@@ -142,18 +144,19 @@
     "url": "https://archive.opensensemap.org/",
     "icon": "https://icons.duckduckgo.com/ip3/archive.opensensemap.org.ico",
     "slug": "open-sense-map-archive",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
-    "time": 1144,
+    "time": 1145,
     "timeDay": 1783,
     "timeWeek": 1514,
     "timeMonth": 1313,
     "timeYear": 1176,
     "dailyMinutesDown": {
+      "2022-12-28": 0,
       "2022-05-01": 37,
       "2022-02-11": 45
     }
