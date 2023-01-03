@@ -142,9 +142,9 @@
     "url": "https://archive.opensensemap.org/",
     "icon": "https://icons.duckduckgo.com/ip3/archive.opensensemap.org.ico",
     "slug": "open-sense-map-archive",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
@@ -154,6 +154,7 @@
     "timeMonth": 1310,
     "timeYear": 1181,
     "dailyMinutesDown": {
+      "2023-01-03": 0,
       "2022-05-01": 37,
       "2022-02-11": 45
     }
